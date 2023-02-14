@@ -8,6 +8,14 @@
   - [Simple memory game](https://github.com/evelR/ProjectNo.2-JavaScript-Game)
 - <b>ProjectNo.3_WeatherApp</b>
   - [Weather app](https://github.com/evelR/ProjectNo.3_WeatherApp)
+  
+<h2>⚡ Certification:</h2>
+
+- <b>AWS</b>
+  - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0e9bef2a-07aa-4998-be34-e7473aff8988/public_url)
+- <b>AttackIQ</b>
+  - [Foundations of Breach & Attack Simulation](https://www.credly.com/badges/af1462fa-95f7-4d3c-a05d-522f7dca6cde/public_url)
+  - [Foundations of Operationalizing MITRE ATT&CK](https://www.credly.com/badges/1a88ce0b-6c4d-40e2-96e4-4a46b6b88819/public_url)
 
 <h2>📺 Me on YouTube </h2>
 
