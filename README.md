@@ -1,43 +1,57 @@
-<h2>Hi, I'm Evel! <br/><a href="https://github.com/evelR">Programmer</a>, <a href="https://www.linkedin.com/in/evel-r/">Cybersecurity Specialist</a>
+### <div align="center">IT security specialist with a strong background in information technology
 
-<h3>👨‍💻 Software Development Projects:</h3>
-
-- <b>ProjectNo.1-Website (DataNexus)</b>
-  - [Praciting HTML & CSS](https://github.com/evelR/ProjectNo.1-Website)
-- <b>ProjectNo.2-JavaScript-Game (Memory game)</b>
-  - [Simple memory game](https://github.com/evelR/ProjectNo.2-JavaScript-Game)
-- <b>ProjectNo.3_WeatherApp</b>
-  - [Weather app](https://github.com/evelR/ProjectNo.3_WeatherApp)
+My area of expertise includes setting up compliant networks 📋, programming with integrated security ⚔️, cloud security ☁️ (AWS and Azure), analyzing 📈 and solving ✔️ complex problems with modern technology 🛰️. 
+Effective communicator 🤖, skilled in both written 📝 and verbal communication 💬.</div>  
   
-<h3>⚡ Certification:</h3>
 
-- <b>AWS</b>
-  - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0e9bef2a-07aa-4998-be34-e7473aff8988/public_url)
-- <b>AttackIQ</b>
-  - [Foundations of Breach & Attack Simulation](https://www.credly.com/badges/af1462fa-95f7-4d3c-a05d-522f7dca6cde/public_url)
-  - [Foundations of Operationalizing MITRE ATT&CK](https://www.credly.com/badges/1a88ce0b-6c4d-40e2-96e4-4a46b6b88819/public_url)
+<br/>  
 
-<h3>📺 Me on YouTube </h3>
 
-- [Coming soon]
+## My Skill Set  
+<table><tr><td valign="top" width="100%">
 
-<h3>🤳 Connect with me:</h3>
 
-[<img align="left" alt="EvelRibo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/evel-r/
+### Security / DevOps / Frontend / Backend ... and much more  
+<div align="center">  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="55" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="55" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="45" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="45" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="55" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="45" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="45" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="45" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="45" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="45" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="45" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="45" /></a>  
+<a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="45" /></a>  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="45" /></a>  
+</div>
 
-<!--
-**evelR/evelR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td></tr></table>  
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=evelR&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/evelR" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/evel-r" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
