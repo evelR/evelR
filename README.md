@@ -1,6 +1,6 @@
-# <div align="center">IT security specialist with a strong background in information technology
+# <div align="center">IT security specialist with a strong background in information technology</div> 
 
-My area of expertise includes setting up compliant networks 📋, programming with integrated security ⚔️, cloud security ☁️ (AWS and Azure), analyzing 📈 and solving ✔️ complex problems with modern technology 🛰️. 
+<div align="center">My area of expertise includes setting up compliant networks 📋, programming with integrated security ⚔️, cloud security ☁️ (AWS and Azure), analyzing 📈 and solving ✔️ complex problems with modern technology 🛰️. 
 Effective communicator 🤖, skilled in both written 📝 and verbal communication 💬.</div>  
 
 <br/>  
