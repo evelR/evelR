@@ -7,12 +7,9 @@ Effective communicator 🤖, skilled in both written 📝 and verbal communicati
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="100%">
-
-
-
-### Security / DevOps / Frontend / Backend ... and much more  
+## Skill 
+<tr><td valign="top" width="100%">
+ 
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="55" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="55" /></a>  
@@ -32,9 +29,7 @@ Effective communicator 🤖, skilled in both written 📝 and verbal communicati
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="45" /></a>  
 </div>
 
-
-
-</td></tr></table>  
+</td></tr>
 <br/>  
 
 
