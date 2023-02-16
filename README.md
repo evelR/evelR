@@ -2,10 +2,8 @@
 
 My area of expertise includes setting up compliant networks 📋, programming with integrated security ⚔️, cloud security ☁️ (AWS and Azure), analyzing 📈 and solving ✔️ complex problems with modern technology 🛰️. 
 Effective communicator 🤖, skilled in both written 📝 and verbal communication 💬.</div>  
-  
 
 <br/>  
-
 
 ## Skill 
 <tr><td valign="top" width="100%">
@@ -30,15 +28,13 @@ Effective communicator 🤖, skilled in both written 📝 and verbal communicati
 </div>
 
 </td></tr>
-<br/>  
 
+<br/>  
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=evelR&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
